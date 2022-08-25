@@ -1,0 +1,15 @@
+svg path {
+    fill:inherit;
+    stroke:inherit;
+    stroke-width: inherit;
+}
+.icon-youtube:hover {
+    fill:red;
+}
+.img {
+    height: 80px;
+}
+
+.img:hover {
+    color: #29ab08;
+}
